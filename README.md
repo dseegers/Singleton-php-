@@ -1,1 +1,1 @@
-# Singleton-php-
+# Singleton for PHP
